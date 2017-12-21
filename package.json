@@ -1,7 +1,7 @@
 {
-  "name": "quantified-self-starter-kit",
+  "name": "ask-randy",
   "version": "1.0.0",
-  "description": "Starter kit for Turing School's BEE M4 Quantified Self Project",
+  "description": "Capstone",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/turingschool-examples/game-time-starter-kit-FEm1.git"
   },
-  "author": "Turing School of Software and Design - Nate Allen",
+  "author": "Ashish Vaid",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/turingschool-examples/quantified-self-starter-kit/issues"
