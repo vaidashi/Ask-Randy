@@ -19,7 +19,11 @@ h1.logo {
 
 }
 
-
+.randy-pic{
+  float: right;
+  margin-top: -350px;
+  padding-right: 150px;
+}
 
 body{
   background-color: #e7f5f7;
