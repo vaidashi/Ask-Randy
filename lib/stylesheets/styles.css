@@ -1,7 +1,43 @@
+header {
+	width: 100%;
+	height: 100px;
+	background: #0c91a4;
+	position: relative;
+	z-index: 2;
+	box-shadow: 0 4px 4px rgba(0,0,0,0.1);
+}
+
+h1.logo {
+  font-family: 'Lobster', cursive;
+	font-size: 4em;
+	font-weight: 400;
+	/* float: left; */
+  text-align: center;
+	padding: 5px;
+	margin-top: 25px;
+  color: #fff;
+
+}
+
+
+
+body{
+  background-color: #e7f5f7;
+}
+
+textarea{
+  margin-left: 5vw;
+}
+
+.btn.teal.pull-right {
+  margin-left: 5vw;
+  position: relative;
+}
+
 /* Chat containers */
 .container {
     border: 2px solid #dedede;
-    background-color: #f1f1f1;
+    background-color: #a0d9ef;
     border-radius: 5px;
     padding: 10px;
     margin: 10px 0;
@@ -10,14 +46,14 @@
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -50vw;
+    margin-left: -45vw;
     margin-right: -50vw;
 }
 
 /* Darker chat container */
 .darker {
     border-color: #ccc;
-    background-color: #ddd;
+    background-color: #90b6f4;
 }
 
 /* Clear floats */
