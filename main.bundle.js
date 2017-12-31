@@ -42,9 +42,10 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ function(module, exports) {
+/***/ (function(module, exports) {
 
-	
+	// import './stylesheets/styles.css'
+	"use strict";
 
-/***/ }
+/***/ })
 /******/ ]);
